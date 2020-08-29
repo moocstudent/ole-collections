@@ -1,5 +1,5 @@
 # ole-collections 
-哦了,collections,对之前技术记录的再次整合梳理 
+哦了collections,对之前技术记录的再次整合梳理 
 # linux notes 
 https://app.yinxiang.com/fx/2ef405ca-7eaf-4a22-83f3-f9627e94e1f9 linux document tree  
 https://www.cnblogs.com/ukzq/p/8268066.html  linux learning note  
