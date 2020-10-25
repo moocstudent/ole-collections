@@ -12,6 +12,6 @@ https://www.cnblogs.com/ukzq/category/1810186.html little ruby on rails demo lis
 # design pattern notes
 https://github.com/deadzq/DesignPattern design pattern code list
 # function reactive programming
-https://gitee.com/createmaker/demo-reactive-rdbms.git
-
+https://gitee.com/createmaker/demo-reactive-rdbms
+https://gitee.com/createmaker/webflux-r2dbc-demo
 
