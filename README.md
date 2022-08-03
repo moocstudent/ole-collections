@@ -27,6 +27,8 @@ https://www.cnblogs.com/ukzq/p/16116845.html
 https://www.cnblogs.com/ukzq/p/16130577.html
 https://www.cnblogs.com/ukzq/p/15921719.html
 https://www.cnblogs.com/ukzq/p/16211471.html
+# python django simple use
+https://www.cnblogs.com/ukzq/p/16156496.html
 
 
 
