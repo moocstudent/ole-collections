@@ -19,6 +19,14 @@ https://gitee.com/createmaker/reactor-examples
 https://github.com/moocstudent/easyrule-demo name that , but exchange ews email notification
 # good books
 https://www.bilibili.com/video/BV1np4y1C7Yf mall video
+# mysql statements & mybatis
+https://www.cnblogs.com/ukzq/p/16424485.html
+https://www.cnblogs.com/ukzq/p/16413915.html
+https://www.cnblogs.com/ukzq/p/16169391.html
+https://www.cnblogs.com/ukzq/p/16116845.html
+https://www.cnblogs.com/ukzq/p/16130577.html
+https://www.cnblogs.com/ukzq/p/15921719.html
+https://www.cnblogs.com/ukzq/p/16211471.html
 
 
 
